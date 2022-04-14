@@ -4,8 +4,10 @@ title:  "SXSW - Pastel Ghost"
 tags: photo sxsw music
 ---
 
-![Pastel Ghost](/assets/images/SXSW-2022-film-Pastel-Ghost-1.jpg)<br><br>
-![Pastel Ghost](/assets/images/SXSW-2022-film-Pastel-Ghost-2.jpg)
+<div class="grid two">
+    <img src="/assets/images/SXSW-2022-film-Pastel-Ghost-1.jpg" alt="Pastel Ghost">
+    <img src="/assets/images/SXSW-2022-film-Pastel-Ghost-2.jpg" alt="Pastel Ghost">
+</div>
 
 <details>
     <summary>Explanation</summary>
@@ -28,6 +30,8 @@ tags: photo sxsw music
 
     Of the two images, I prefer the first one. It has less facial detail but the effect of the laptop screen lighting her face is quite nice. The second one isn't bad, the facial detail is pretty good but while lit decently well, the image feels a bit flat and lacking in personality, without much other context would you be able to say much about her performance or type of music?. In all honesty, both of these images and all of the ones I took with my digital camera felt lacking in personality. I even took a couple images quite similarly to the ones I took the night before but they ended up blurry messes that were unreadable, like how I described I was afraid of. To that end, I don't necessarily think that that's the fault of me taking pictures with a digital camera vs film. I think it ended up being a factor of both the venues and the lenses that I used. In some ways, the only pictures I could really comfortably get with my digital camera and the lens I chose were in fact the ones I got, sharper, better lit, more in focus, but lacking in personality. Now also don't get me wrong, I also noted how much I felt the film grain actually worked in its favor for those images. Ultimately, this side by side really makes me want to explore this difference more and really hone in on my feelings. But for now, with the way things went, I do prefer the film ones more. They feel like they express more personality and more nuance, which to me is what matters. (Side note: I find it interesting that the film images show the individual bulbs in the tubes while the digital images just show the entire tubes glowing, I'm not completely sure why that is)
 
-    <img src="/assets/images/SXSW-2022-digital-Pastel-Ghost-1.jpg" alt="Pastel Ghost"><br><br>
-    <img src="/assets/images/SXSW-2022-digital-Pastel-Ghost-2.jpg" alt="Pastel Ghost">
+    <div class="grid two">
+        <img src="/assets/images/SXSW-2022-digital-Pastel-Ghost-1.jpg" alt="Pastel Ghost">
+        <img src="/assets/images/SXSW-2022-digital-Pastel-Ghost-2.jpg" alt="Pastel Ghost">
+    </div>
 </details>

@@ -1,0 +1,15 @@
+.grid {
+    display: grid;
+    gap: 8px;
+
+    &.two {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    @include media-query($on-laptop) {
+        display: block;
+        * {
+            padding-bottom: 8px;
+        }
+    }
+}
