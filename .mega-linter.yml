@@ -1,0 +1,16 @@
+# Configuration file for MegaLinter
+# See all available variables at https://megalinter.github.io/configuration/ and in linters documentation
+
+APPLY_FIXES: all # all, none, or list of linter keys
+ENABLE:
+  - MARKDOWN
+  - SPELL
+DISABLE_LINTERS:
+  - MARKDOWN_MARKDOWN_LINK_CHECK
+  - SPELL_CSPELL
+# only look in the _posts/ directory
+FILTER_REGEX_INCLUDE: (_posts/)
+# suppress fun output cause I'm boring
+PRINT_ALPACA: false
+# tell me how long linting is taking
+SHOW_ELAPSED_TIME: true
