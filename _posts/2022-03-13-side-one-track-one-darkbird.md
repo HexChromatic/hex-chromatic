@@ -4,7 +4,7 @@ title:  "Side One Track One Pt. 1 - Darkbird"
 tags: photo music
 ---
 
-![Darkbird](/assets/images/SOTO-Darkbird-1.jpg)
+![Darkbird](/assets/images/SOTO-2022/SOTO-Darkbird-1.jpg)
 
 <details>
     <summary>Explanation</summary>
@@ -17,5 +17,5 @@ tags: photo music
 
     Before ending this, I want to talk about another Darkbird picture I took towards the end of their show. Below is an image I took to intentionally show a picture I knew wouldn't really end up that interesting. I took it from the back of the crowd and all in all, the image feels really flat. Honestly, there's nothing too wrong with it. Unlike the first picture, you can actually see the whole band! (besides the drummer) You can also see the crowd and that it seems to be relatively deep, I think I was probably 10 rows back as opposed to the 1 or two from the other picture. But the image also feels a bit bland and lifeless. Perhaps if the crowd had their hands up or someone were in the middle of jumping there'd be more apparent energy. In a later post, I'll show an image which could work from this distance and this same lens. I think with this I just want to highlight that where you stand affects not just your view, but your possibilities.<br><br>
     
-    <img src="/assets/images/SOTO-Darkbird-2.jpg" alt="Darkbird">
+    <img src="/assets/images/SOTO-2022/SOTO-Darkbird-2.jpg" alt="Darkbird">
 </details>

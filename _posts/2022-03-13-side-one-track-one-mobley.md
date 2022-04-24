@@ -4,7 +4,7 @@ title:  "Side One Track One Pt. 2 - Mobley"
 tags: photo music
 ---
 
-![Mobley](/assets/images/SOTO-Mobley.jpg)
+![Mobley](/assets/images/SOTO-2022/SOTO-Mobley.jpg)
 
 <details>
     <summary>Explanation</summary>
