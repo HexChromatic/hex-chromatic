@@ -5,10 +5,10 @@ tags: photo essay nature
 ---
 
 <div class="grid two">
-    <img src="/assets/images/stark/2022-04-10-wildcat-bluff-stark-1.jpg" alt="Wildcat Bluff Dark" title="Wildcat Bluff Dark">
-    <img src="/assets/images/stark/2022-04-10-palo-duro-stark-1.jpg" alt="Palo Duro Dark" title="Palo Duro Dark">
-    <img src="/assets/images/stark/2022-04-10-wildcat-bluff-stark-2.jpg" alt="Wildcat Bluff Stark" title="Wildcat Bluff Stark">
-    <img src="/assets/images/stark/2022-04-10-palo-duro-stark-2.jpg" alt="Palo Duro Stark" title="Palo Duro Stark">
+    <img src="/assets/images/2022-04/stark/2022-04-10-wildcat-bluff-stark-1.jpg" alt="Wildcat Bluff Dark" title="Wildcat Bluff Dark">
+    <img src="/assets/images/2022-04/stark/2022-04-10-palo-duro-stark-1.jpg" alt="Palo Duro Dark" title="Palo Duro Dark">
+    <img src="/assets/images/2022-04/stark/2022-04-10-wildcat-bluff-stark-2.jpg" alt="Wildcat Bluff Stark" title="Wildcat Bluff Stark">
+    <img src="/assets/images/2022-04/stark/2022-04-10-palo-duro-stark-2.jpg" alt="Palo Duro Stark" title="Palo Duro Stark">
 </div>
 
 <details>

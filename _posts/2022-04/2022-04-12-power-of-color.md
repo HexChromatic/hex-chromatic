@@ -5,10 +5,10 @@ tags: essay
 ---
 
 <div class="grid two">
-    <img src="/assets/images/power-of-color/2022-04-12-sakura-girl-kodak.jpg" alt="Sakura Girl (Kodak)" title="Sakura Girl (Kodak)">
-    <img src="/assets/images/power-of-color/2022-04-12-sakura-girl-cropped.jpg" alt="Sakura Girl cropped" title="Sakura Girl (Metropolis)">
-    <img src="/assets/images/power-of-color/2022-04-12-flowers-kodak.jpg" alt="Flowers (Kodak)" title="Flowers (Kodak)">
-    <img src="/assets/images/power-of-color/2022-04-12-flowers-metropolis.jpg" alt="Flowers (Metropolis)" title="Flowers (Metropolis)">
+    <img src="/assets/images/2022-04/power-of-color/2022-04-12-sakura-girl-kodak.jpg" alt="Sakura Girl (Kodak)" title="Sakura Girl (Kodak)">
+    <img src="/assets/images/2022-04/power-of-color/2022-04-12-sakura-girl-cropped.jpg" alt="Sakura Girl cropped" title="Sakura Girl (Metropolis)">
+    <img src="/assets/images/2022-04/power-of-color/2022-04-12-flowers-kodak.jpg" alt="Flowers (Kodak)" title="Flowers (Kodak)">
+    <img src="/assets/images/2022-04/power-of-color/2022-04-12-flowers-metropolis.jpg" alt="Flowers (Metropolis)" title="Flowers (Metropolis)">
 </div>
 
 <details>
@@ -28,10 +28,10 @@ tags: essay
 
     Before closing off, let's look at those black and whites I promised.
     <div class="grid two">
-        <img src="/assets/images/power-of-color/2022-04-12-sakura-girl-kodak-bw.jpg" alt="Sakura Girl (Kodak)" title="Sakura Girl (Kodak/BW)">
-        <img src="/assets/images/power-of-color/2022-04-12-sakura-girl-cropped-bw.jpg" alt="Sakura Girl cropped" title="Sakura Girl (Metropolis/BW)">
-        <img src="/assets/images/power-of-color/2022-04-12-flowers-kodak-bw.jpg" alt="Flowers (Kodak)" title="Flowers (Kodak/BW)">
-        <img src="/assets/images/power-of-color/2022-04-12-flowers-metropolis-bw.jpg" alt="Flowers (Metropolis)" title="Flowers (Metropolis/BW)">
+        <img src="/assets/images/2022-04/power-of-color/2022-04-12-sakura-girl-kodak-bw.jpg" alt="Sakura Girl (Kodak)" title="Sakura Girl (Kodak/BW)">
+        <img src="/assets/images/2022-04/power-of-color/2022-04-12-sakura-girl-cropped-bw.jpg" alt="Sakura Girl cropped" title="Sakura Girl (Metropolis/BW)">
+        <img src="/assets/images/2022-04/power-of-color/2022-04-12-flowers-kodak-bw.jpg" alt="Flowers (Kodak)" title="Flowers (Kodak/BW)">
+        <img src="/assets/images/2022-04/power-of-color/2022-04-12-flowers-metropolis-bw.jpg" alt="Flowers (Metropolis)" title="Flowers (Metropolis/BW)">
     </div>
 
     To get these, I just edited out all the color. Looking at them like this, it's a lot less clear which one's better. It's also more obvious some of the other differences between the film, like the film grain. To be fair to the Metropolis picture of the girl, it's a cropped picture. However, it can't be understated that the film grain is more apparent on the Metropolis. That said, it's clear that the color has a significant effect on differentiating these pictures. Seen in black and white, each pair is more similar than different. Especially in that second pair, it's hard to really tell much besides that difference in composition/angle. If you're paying attention, it's also notable how bright the second picture is, especially the sky. When looking back to the original two, it's also apparent there however I still missed it until looking at the black and whites. Note that the Kodak Gold picture has more blue in the top left and more gray in the black and white version. The Metropolis is largely white in both. Honestly, it's quite interesting how little blue there is in the sky for both Metropolis pictures, which I think also affects how warm the pictures end up feeling.<br><br>

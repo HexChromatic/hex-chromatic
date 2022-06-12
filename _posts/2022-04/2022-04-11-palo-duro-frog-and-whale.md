@@ -4,8 +4,8 @@ title:  "Palo Duro Canyon Pt. 2 - Frog and Whale"
 tags: photo nature
 ---
 
-![Frog and Whale](/assets/images/palo-duro/2022-04-11-frog-and-whale-1.jpg)<br><br>
-![Frog and Whale](/assets/images/palo-duro/2022-04-11-frog-and-whale-2.jpg)
+![Frog and Whale](/assets/images/2022-04/palo-duro/2022-04-11-frog-and-whale-1.jpg)<br><br>
+![Frog and Whale](/assets/images/2022-04/palo-duro/2022-04-11-frog-and-whale-2.jpg)
 
 <details>
     <summary>Explanation</summary>

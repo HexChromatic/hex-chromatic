@@ -5,10 +5,10 @@ tags: photo nature
 ---
 
 <div class="grid two">
-    <img src="/assets/images/palo-duro/2022-04-10-palo-duro-1.jpg" alt="Frog and Trails">
-    <img src="/assets/images/palo-duro/2022-04-10-palo-duro-2.jpg" alt="Frog and Trails">
-    <img src="/assets/images/palo-duro/2022-04-10-palo-duro-3.jpg" alt="Frog and Trails">
-    <img src="/assets/images/palo-duro/2022-04-10-palo-duro-4.jpg" alt="Frog and Trails">
+    <img src="/assets/images/2022-04/palo-duro/2022-04-10-palo-duro-1.jpg" alt="Frog and Trails">
+    <img src="/assets/images/2022-04/palo-duro/2022-04-10-palo-duro-2.jpg" alt="Frog and Trails">
+    <img src="/assets/images/2022-04/palo-duro/2022-04-10-palo-duro-3.jpg" alt="Frog and Trails">
+    <img src="/assets/images/2022-04/palo-duro/2022-04-10-palo-duro-4.jpg" alt="Frog and Trails">
 </div>
 
 <details>
