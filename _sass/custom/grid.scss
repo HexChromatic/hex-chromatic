@@ -1,6 +1,9 @@
+$gap-size: 8px;
+
 .grid {
     display: grid;
-    gap: 8px;
+    gap: $gap-size;
+    margin-bottom: $gap-size;
 
     &.two {
         grid-template-columns: repeat(2, 1fr);
@@ -8,8 +11,9 @@
 
     @include media-query($on-laptop) {
         display: block;
+        margin-bottom: 0;
         * {
-            padding-bottom: 8px;
+            margin-bottom: $gap-size;
         }
     }
 }
