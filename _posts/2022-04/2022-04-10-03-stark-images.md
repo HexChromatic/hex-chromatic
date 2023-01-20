@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Stark/Dark images"
-tags: photo essay nature
+tags: photo essay nature portra-160
 ---
 
 <div class="grid two">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Space Between - Part 1"
-tags: bad
+tags: bad lomo-800
 ---
 
 ![Space Between](/assets/images/2022-06/2022-06-15-space-between.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Palo Duro Canyon Pt. 1 - Frog and Trails"
-tags: photo nature
+tags: photo nature portra-160
 ---
 
 <div class="grid two">

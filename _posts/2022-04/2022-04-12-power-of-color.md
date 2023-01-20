@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "The Power of Color"
-tags: essay
+tags: essay gold-200 lomo-metropolis
 ---
 
 <div class="grid two">

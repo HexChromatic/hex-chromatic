@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Side One Track One Pt. 1 - Darkbird"
-tags: photo music
+tags: photo music lomo-400
 ---
 
 ![Darkbird](/assets/images/2022-03/SOTO-2022/SOTO-Darkbird-1.jpg)

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LomoChrome Purple (1st roll)"
-tags: roll
+tags: roll lomo-purple
 ---
 
 ![LomoChrome Purple](/assets/rolls/LomoChrome-Purple-1.jpg)

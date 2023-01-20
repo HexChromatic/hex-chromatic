@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Urban Heat"
-tags: photo music
+tags: photo music lomo-800 push+1
 ---
 
 ![Urban Heat](/assets/images/2022-12/2022-12-02-urban-heat.jpg)

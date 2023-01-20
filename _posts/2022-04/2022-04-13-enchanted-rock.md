@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Enchanted Rock"
-tags: photo nature
+tags: photo nature gold-200
 ---
 
 ![Enchanted Rock](/assets/images/2022-04/enchanted-rock/2022-04-13-enchanted-rock-01.jpg)<br><br>

@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Side One Track One Pt. 2 - Mobley"
-tags: photo music
+tags: photo music lomo-400
 ---
 
 ![Mobley](/assets/images/2022-03/SOTO-2022/SOTO-Mobley.jpg)

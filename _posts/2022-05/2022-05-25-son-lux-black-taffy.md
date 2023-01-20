@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Son Lux/Black Taffy"
-tags: photo music
+tags: photo music lomo-purple
 ---
 
 <div class="grid two">

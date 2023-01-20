@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "LomoChrome Metropolis (1st roll)"
-tags: roll
+tags: roll lomo-metropolis
 ---
 
 ![LomoChrome Metropolis](/assets/rolls/LomoChrome-Metropolis-1.jpg)

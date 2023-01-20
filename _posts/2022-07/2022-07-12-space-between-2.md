@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Space Between - Part 2"
-tags: essay
+tags: essay lomo-800
 ---
 
 <div class="grid two">

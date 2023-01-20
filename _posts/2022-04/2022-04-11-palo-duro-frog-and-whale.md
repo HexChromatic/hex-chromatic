@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Palo Duro Canyon Pt. 2 - Frog and Whale"
-tags: photo nature
+tags: photo nature portra-160
 ---
 
 ![Frog and Whale](/assets/images/2022-04/palo-duro/2022-04-11-frog-and-whale-1.jpg)<br><br>

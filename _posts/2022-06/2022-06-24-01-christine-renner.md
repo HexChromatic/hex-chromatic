@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Christine Renner"
-tags: photo music
+tags: photo music lomo-800
 ---
 
 ![Christine Renner](/assets/images/2022-06/2022-06-24-christine-renner.jpg)

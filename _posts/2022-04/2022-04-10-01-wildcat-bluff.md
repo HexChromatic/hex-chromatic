@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Wildcat Bluff"
-tags: bad
+tags: bad portra-160
 ---
 
 ![Wildcat Bluff](/assets/images/2022-04/wildcat-bluff/2022-04-10-wildcat-bluff-1.jpg)

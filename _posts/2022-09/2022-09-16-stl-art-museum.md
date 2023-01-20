@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "St. Louis Art Museum"
-tags: photo art
+tags: photo art lomo-800
 ---
 
 ![St. Louis Art Museum](/assets/images/2022-09/2022-09-16-stl-art-museum-1.jpg)

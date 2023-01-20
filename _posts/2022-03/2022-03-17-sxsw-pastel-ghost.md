@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "SXSW - Pastel Ghost"
-tags: photo sxsw music
+tags: photo sxsw music cinestill-800t
 ---
 
 <div class="grid two">

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Wangechi Mutu - Water Woman"
-tags: art photo
+tags: art photo fuji-200
 ---
 
 <div class="grid two">

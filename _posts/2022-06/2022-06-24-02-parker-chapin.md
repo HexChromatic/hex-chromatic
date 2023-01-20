@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Parker Chapin"
-tags: photo music
+tags: photo music lomo-800
 ---
 
 ![Parker Chapin](/assets/images/2022-06/2022-06-24-parker-chapin.jpg)

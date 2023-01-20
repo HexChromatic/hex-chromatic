@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "The Contemporary Austin"
-tags: photo art
+tags: photo art lomo-800
 ---
 
 ![Contemporary Austin](/assets/images/2022-06/2022-06-21-contemporary.jpg)
