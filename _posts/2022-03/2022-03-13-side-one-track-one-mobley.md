@@ -11,7 +11,7 @@ tags: photo music lomo-400
 
     tl;dr f/1.7, 1/15, Lomography 400, 50mm<br><br>
 
-    The last show of Side One Track One I saw was Mobley. I had been listening to his music for a good chunk of the last year or two so I had a sense of the music and the type of show he might put on. A multi-instrumentalist with a powerful voice, I expected a charismatic show showcases various facets of his music making. I took this picture towards the beginning of the set, almost as a sort of throwaway picture. Mainly I was trying to match my timing with the lights to get the sort of highlighting you can see on the right side of his body.<br><br>
+    The last show of Side One Track One I saw was Mobley. I had been listening to his music for a good chunk of the last year or two so I had a sense of the music and the type of show he might put on. A multi-instrumentalist with a powerful voice, I expected a charismatic show showcasing various facets of his music making. I took this picture towards the beginning of the set, almost as a sort of throwaway picture. Mainly I was trying to match my timing with the lights to get the sort of highlighting you can see on the right side of his body.<br><br>
 
     Why do I describe this as what I thought would be a "throwaway" picture? Honestly, besides the timing, this isn't a particularly interesting image on its own. As a standalone image insulated from knowledge of any other pictures, it isn't a particularly stunning image. However, the way the light hits Mobley, both in amount and the monochromatic quality evokes other older images. This image feels similar to images of various rock and pop acts. The film grain makes the image feel older than it is, further cementing the idea of this as a sort of callback image.<br><br>
 
