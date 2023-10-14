@@ -15,5 +15,5 @@ tags: music portra-400 photo sxsw push+1
 
 	There isn't a whole lot of detail to the picture due to the really strong difference in light between the bright lights he's blocking and him. I do like that his gear setup is fully cloaked by the light and overall the vibe works just right.<br><br>
 
-	One thing I'm not entirely sure about is what that red square on the right side of the picture is. No clue. Anyways that's it for this post, let's keep going.
+	One thing I'm not entirely sure about is what that red square on the right side of the picture is. No clue. (Edit from the future, I think that's an exit sign) Anyways that's it for this post, let's keep going.
 </details>
