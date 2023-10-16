@@ -12,9 +12,9 @@ tags: photo cinestill-50d
 <details>
 	<summary>Explanation</summary>
 
-	To start off this next group of pictures, let's talk about travel. Obviously, coming from a point of privilege, I do enjoy travelling. As I'm writing this, I just read an article on <i>The New Yorker</i> titled The case against travel.<br><br>
+	To start off this next group of pictures, let's talk about travel. Obviously, coming from a point of privilege, I do enjoy travelling. As I'm writing this, I just read an article on <i>The New Yorker</i> titled "The case against travel".<br><br>
 
-	The premise of the article is that largely travel is an excuse to go places and search for "change" without meaningfully undergoing personal change. The quote they use is "Tourists are less likely to borrow from their hosts than their hosts from them, thus precipitating a chain of change in the host community." The idea being that tourists leave their mark on the communities they visit but not really the other way around. In that way, I do actually agree. Fundamentally, tourism is not symmetrical. As the tourist, you have the power to decide where to go and what to do. As a collective whole, through reviews and aggregate behavior, the host communities change as a result of the whims and wants of the tourists.<br><br>
+	The premise of the article is that travel is largely an excuse to go places and search for "change" without meaningfully undergoing personal change. The quote they use is "Tourists are less likely to borrow from their hosts than their hosts from them, thus precipitating a chain of change in the host community." The idea being that tourists leave their mark on the communities they visit but not really the other way around. In that way, I do actually agree. Fundamentally, tourism is not symmetrical. As the tourist, you have the power to decide where to go and what to do. As a collective whole, through reviews and aggregate behavior, the host communities change as a result of the whims and wants of the tourists.<br><br>
 
 	The author goes on to explain a trip to Abu Dhabi and how they went to a falcon hospital and how it was precipitated by reviews but not by any particular passion. Of equal measure is the hordes of people who go to see the Mona Lisa or the Grand Canyon, not because of real interest but to "experience" it as a thing to do.<br><br>
 
